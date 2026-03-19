@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Cut It First",
+  "version": "1.0.0",
+  "description": "Download only the part of a Google Drive video you need.",
+  "content_scripts": [
+    {
+      "matches": ["https://drive.google.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
