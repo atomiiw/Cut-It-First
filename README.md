@@ -6,7 +6,7 @@
 
 I was on the production team at LOSTiN, a travel media startup. The video editors there worked with hour long event footage stored on shared Google Drive folders. Whenever they needed a 30 second clip from a 90 minute file, they had to download the whole thing, often 10+ GB. It clogged their drives, ate hours of their day, and they did it constantly.
 
-I interviewed three of them to understand the workflow, then started building this.
+I interviewed two of them to understand the workflow, then started building this.
 
 ## What it does
 
